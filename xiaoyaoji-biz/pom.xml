@@ -99,7 +99,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>4.3.7.RELEASE</version>
+            <version>5.2.15.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
